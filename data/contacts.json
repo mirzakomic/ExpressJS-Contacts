@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mirza",
+    "alter": 27,
+    "telefonnummer": 555555,
+    "id": 1
+  },
+  {
+    "name": "Elisa",
+    "alter": 28,
+    "telefonnummer": 555555,
+    "id": 2
+  },
+  {
+    "name": "Magda",
+    "alter": 27,
+    "telefonnummer": 555555,
+    "id": 3
+  },
+  {
+    "name": "Magda",
+    "alter": 27,
+    "telefonnummer": 555555,
+    "id": 3
+  }
+]
